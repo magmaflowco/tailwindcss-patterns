@@ -1,10 +1,25 @@
 {
-  "name": "@magmaflow/tailwindcss-patterns",
-  "version": "1.0.0",
+  "name": "tailwindcss-patterns",
+  "version": "0.1.0",
   "description": "80+ Geometric background patterns for TailwindCSS",
+  "main": "src/index.js",
   "source": "src/index.js",
-  "author": "",
-  "license": "ISC",
+  "author": "MagmaFlow",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magmaflowco/tailwindcss-patterns.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "patterns",
+    "background"
+  ],
+  "bugs": {
+    "url": "https://github.com/magmaflowco/tailwindcss-patterns/issues"
+  },
+  "homepage": "https://github.com/magmaflowco/tailwindcss-patterns#readme",
   "devDependencies": {
     "tailwindcss": "^3.1.7"
   }
